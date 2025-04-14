@@ -4,6 +4,7 @@ SEMINAR
 
 Dimensionality-Reduction
 Authors
+
 (i) Piyush Kumar (23801)
 
 (ii) Abhinav Goyal
