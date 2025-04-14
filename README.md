@@ -4,10 +4,13 @@ SEMINAR
 
 Dimensionality-Reduction
 Authors
-Piyush Kumar (23801)
-Abhinav Goyal
-Seetha Abhinav
-Aarav Desai
+(i) Piyush Kumar (23801)
+
+(ii) Abhinav Goyal
+
+(iii) Seetha Abhinav
+
+(iv) Aarav Desai
 
 Dimensionality Reduction: Implementations of t-SNE, Random Projection, and C-GMVAE
 This repository presents implementations and analyses of three prominent dimensionality reduction techniques, each grounded in foundational research papers. The goal is to provide clear, practical examples that facilitate understanding and application of these methods in various data science and machine learning contexts.​
