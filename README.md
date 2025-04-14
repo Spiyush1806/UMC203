@@ -17,6 +17,7 @@ Dimensionality Reduction: Implementations of t-SNE, Random Projection, and C-GMV
 This repository presents implementations and analyses of three prominent dimensionality reduction techniques, each grounded in foundational research papers. The goal is to provide clear, practical examples that facilitate understanding and application of these methods in various data science and machine learning contexts.​
 
 Implemented Techniques
+
 1. Random Projection
 Paper: Random Projection in Dimensionality Reduction: Applications to Image and Text Data
 Authors: Ella Bingham, Heikki Mannila
@@ -36,14 +37,20 @@ Link: ICML 2022
 Summary: A probabilistic model for multi-label classification using a VAE with a multimodal latent space and contrastive loss to learn label and feature embeddings. Eliminates the need for complex modules like GNNs while achieving high performance with limited data.
 
 🛠️ Technologies Used
+
 Python 3.10+
+
 NumPy, SciPy, Scikit-learn
+
 PyTorch / TensorFlow (for VAE-based models)
+
 Matplotlib / Seaborn for visualizations
 
 
 📂 Directory Structure
+
 Acknowledgements
+
 We extend our sincere gratitude to
 
 Pranav K Nayak (Teaching Assistant, UMC 203) for his support throughout the project
