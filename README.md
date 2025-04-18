@@ -52,6 +52,7 @@ This repository presents implementations and analyses of three prominent dimensi
 
 We are extend our sincere gratitude to
 
--Pranav K Nayak (Teaching Assistant, UMC 203) 
--Professor Chiranjib Bhattacharya & Professor N.Y.K. Shishir
- for his support throughout the project for providing the opportunity to explore this topic through a graded  **PROJECT paper** in their course
+## Pranav K Nayak (Teaching Assistant, UMC 203) 
+## Professor Chiranjib Bhattacharya & Professor N.Y.K. Shishir
+
+   for his support throughout the project for providing the opportunity to explore this topic through a graded  **PROJECT paper** in their course
